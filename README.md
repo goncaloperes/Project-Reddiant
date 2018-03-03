@@ -73,6 +73,6 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Team
 
-[![Gonçalo Peres](https://media-exp2.licdn.com/mpr/mpr/shrinknp_200_200/AAIA_wDGAAAAAQAAAAAAAAqTAAAAJDBlZTE3MmI0LWNmNjgtNDM3MS1iMzRmLTI0ZGQ1MGRlMWE1Yw.jpg)](https://github.io/goncaloperes)  | [![Jinny Chung](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/1/000/079/2f2/2f9541f.jpg)](http://eyepalate.com/) | [![Josh Folgado](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAA1bAAAAJDkxY2FiM2U0LTZhODEtNDU4OS1iNTg5LWZlMTg2YTVhN2M4OA.jpg)](https://joshfolgado.com) | [![Tiago Peres](https://avatars0.githubusercontent.com/u/13332903?size=200)](https://github.com/tiago-peres/)
+[![Gonçalo Peres](https://media-exp2.licdn.com/mpr/mpr/shrinknp_200_200/AAIA_wDGAAAAAQAAAAAAAAqTAAAAJDBlZTE3MmI0LWNmNjgtNDM3MS1iMzRmLTI0ZGQ1MGRlMWE1Yw.jpg)](https://github.com/goncaloperes)  | [![Jinny Chung](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/1/000/079/2f2/2f9541f.jpg)](http://eyepalate.com/) | [![Josh Folgado](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAA1bAAAAJDkxY2FiM2U0LTZhODEtNDU4OS1iNTg5LWZlMTg2YTVhN2M4OA.jpg)](https://joshfolgado.com) | [![Tiago Peres](https://avatars0.githubusercontent.com/u/13332903?size=200)](https://github.com/tiago-peres/)
 ---|---|---|---
 [Gonçalo Peres](https://github.com/goncaloperes) | [Jinny Chung](http://eyepalate.com/) | [Josh Folgado](https://joshfolgado.com) | [Tiago Peres](https://github.com/tiago-peres/)
