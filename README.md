@@ -3,6 +3,8 @@
 
 # [Reddiant](https://github.com/goncaloperes/Project-Reddiant)
 
+![](https://img.shields.io/badge/Version-2.0-blue.svg)
+
 <table>
 <tr>
 <td>
@@ -11,10 +13,6 @@ We wanted to build something as a fun project to help manage our Reddit accounts
 </td>
 </tr>
 </table>
-
-### Version
-2.0
-
 
 ---
 
