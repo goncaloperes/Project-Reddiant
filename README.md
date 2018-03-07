@@ -4,6 +4,7 @@
 # [Reddiant](https://github.com/goncaloperes/Project-Reddiant)
 
 ![](https://img.shields.io/badge/Version-2.0-blue.svg)
+![](https://img.shields.io/badge/Status-Beta-red.svg)
 
 <table>
 <tr>
